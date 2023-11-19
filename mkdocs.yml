@@ -57,7 +57,7 @@ theme:
       code: Roboto Mono
     favicon: assets/favicon.png
     icon:
-      logo: material/chess-queen
+      logo: material/chess-king
 
     features:
       # - announce.dismiss
@@ -102,5 +102,5 @@ extra:
     - icon: fontawesome/brands/linkedin 
       link: https://www.linkedin.com/in/doug-redden/
 nav:
-    - Doug Redden: DougRedden.md
+    - Doug Redden: index.md
 
