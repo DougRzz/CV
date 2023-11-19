@@ -1,10 +1,10 @@
 site_name: Doug Redden CV
-site_url: https://peterboroughchessclub.github.io/site/
+site_url: https://DougRzz.github.io/CV/
 site_author: Doug Redden
 
 # Repository
-repo_name: peterboroughchessclub/peterboroughchessclub
-repo_url: https://github.com/peterboroughchessclub/site
+repo_name: DougRzz/CV
+repo_url: https://github.com/DougRzz/CV
 
 # Customization
 extra_css: [templates_overrides/extra.css]
@@ -98,9 +98,9 @@ extra:
     property: !ENV GOOGLE_ANALYTICS_KEY
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/peterboroughchessclub
+      link: https://github.com/DougRzz
     - icon: fontawesome/brands/linkedin 
-      link: www.facebook.com/peterboroughchessclub/
+      link: https://www.linkedin.com/in/doug-redden/
 nav:
     - Doug Redden: DougRedden.md
 
