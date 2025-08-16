@@ -2,10 +2,12 @@
 
 
 
-<div style="float:right; text-align:right">
-  07779 574381<br>
-  <a href="mailto:doug.redden@gmail.com">doug.redden@gmail.com</a><br>
-  47 Church Street, Whittlesey, Peterborough, PE7 1DB
+<div>
+                <span  style="float:right"> 07779 574381 </span>
+        <span > <br></span>
+        <span style="float:right;">doug.redden@gmail.com</span>
+        <span > <br></span>
+        <span style=" float:right;">47 Church Street, Whittlesey, Peterborough, PE7 1DB</span>
 </div>
 
 ## Profile
