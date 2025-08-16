@@ -8,7 +8,6 @@
         <span style="float:right;">doug.redden@gmail.com</span>
         <span > <br></span>
         <span style=" float:right;">47 Church Street, Whittlesey, Peterborough, PE7 1DB</span>
-        <span style=" float:right;">[CV hosted on Github](https://dougrzz.github.io/CV/)</span>
 
   
 </div>
@@ -158,6 +157,7 @@
 
 - Chess: Captain and website developer for the [Peterborough Chess Club “A” team](https://peterboroughchessclub.github.io/site/).
 - Hiking with the dogs
+
 
 
 
