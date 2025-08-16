@@ -14,12 +14,20 @@
 ## Profile
 
 ---
-* Experienced data scientist with a wealth of experience in the engineering R&D sector
-* Led complex data processing and visualisation projects, building data analytical models and pipelines, and reporting technical data to stakeholders 
-* Proficient `Python` and `SQL`programmer with excellent data processing skills using `Pandas`, `Polars`, `Vaex` and `Snowflake`
-* Skilled in machine learning model development and deployment using the `TensorFlow`, `Scikit-learn`, and `SciPy` packages
-* Adept at developing creative solutions to enable engineers to process and digest very large datasets
-* Led numerous data projects, demonstrating good leadership and collaborative skills
+- Data scientist in engineering R&D, delivering analytics, modelling, and decision support.
+- Built analytical pipelines and visualisations; communicated technical insights to stakeholders.
+- Proficient in Python and SQL; strong data processing with Pandas, Polars, Vaex, NumPy, and Snowflake.
+- Machine learning model development and deployment with TensorFlow, scikit-learn, and SciPy.
+- Specialist in large-scale time‑series analysis and interactive visualisation.
+- Collaborative team member with experience mentoring, documenting, and standardising workflows.
+
+## Skills
+
+- Programming: Python, SQL
+- Data: Pandas, Polars, Vaex, NumPy, DuckDB, Snowflake
+- ML/Stats: scikit-learn, TensorFlow, SciPy, Bayesian methods
+- Visualisation: Plotly, Matplotlib, Dash, Jupyter Widgets/Voila, Tableau
+- Practices: Git, testing, documentation (MkDocs), coding standards
 
 ## Experience
 
@@ -32,14 +40,15 @@
         <span > <br></span>
 </div>
 
-*   Developed multiple virtual sensor and digital twin models to provide calculated engineering data sets. These models included empirical machine learning regression models which were trained using test-bed data sets. I developed the pipelines for these models, using `Snowflake` and `Python` for the data processing and `Tableau` and `Python` web-apps for the data visualisation
-*   Provided technical support for critical engineering issues through data analysis of large datasets and reporting back to stakeholders. The data was visualised using the `Plotly` and `Matplotlib` plotting libraries
-*   Generated several `Python` based web-apps to enable engineers to use novel techniques to visualize very large data sets and to characterise/tag snippets of time-series data. These packages used `Vaex` and `DuckDB` and deployed using either `Jupyter Widgets`/`Voila` or `Dash` 
-*   Authored web-app documentation using `mkdocs` and provided formal training for the `Python` packages that I developed
-*   Coached and provided technical support for student and graduate engineers and assisted them to deliver many successful projects
-*   Significantly contributed to internal process documentation which includes `Python` and `SQL` coding and documentation standards.
-*   Supervised sponsored PhD project of Bayesian probabilistic modelling with the objective of transferring an advanced acedemic project into a useful engineering development tool 
-*   I was a graduate recruitment team member. This involoved candidate selection and interviewing of potential graduates
+- Delivered virtual sensors and digital twin models, including empirical ML regressors trained on test‑bed datasets; built production pipelines in Python and Snowflake; delivered visualisations in Tableau and Python apps.
+- Investigated critical engineering issues using large‑scale time‑series analysis; communicated findings with Plotly and Matplotlib.
+- Built Python web apps for interactive exploration and tagging of very large datasets using Vaex and DuckDB; deployed with Jupyter Widgets/Voila and Dash.
+- Authored an enterprise white paper on next‑generation time‑series visualisation: gathered requirements from engineers and technical leaders, benchmarked calculation engines, and defined recommendations.
+- Wrote MkDocs documentation and delivered formal training for internal Python packages; contributed to Python/SQL coding and documentation standards.
+- Coached students and graduates, enabling successful project delivery.
+- Supervised a sponsored PhD in Bayesian probabilistic modelling, translating research into engineering tools.
+- Supported graduate recruitment through candidate selection and interviewing.
+
 
 
 <div>
@@ -50,8 +59,9 @@
         <span > <br></span>
 </div>
 
-*   Generated structural engineering analysis models and produced and presented technical reports to various customers throughout Europe.
-*   Automated report generation, processing data in `Python` and the `Matplotlib` plotting libary
+- Built structural analysis models and produced/presented technical reports to customers across Europe.
+- Automated report generation and data processing in Python and Matplotlib.
+
 
 
 
@@ -64,7 +74,7 @@
         <span > <br></span>
 </div>
 
-*	Developed several process to improve the efficiency of component structural analysis. The UI and backend was scripted in `Python`, standardising processes and improvde the efficiency of workflows 
+- Developed processes and Python tooling (UI and back end) to standardise and accelerate component structural analysis workflows.
 
 <div>
          <span > <br></span>
@@ -74,8 +84,9 @@
         <span > <br></span>
 </div>
 
-*	Led the development of simulation tools and methods for internal and external consultancy projects
-*	Managed external projects developed by several consultancies. This included managing the project deliverables and timing, validating results and documentation
+- Led development of simulation tools and methods for internal and external consultancy projects.
+- Managed multiple external consultancy projects: deliverables, timelines, validation, and documentation.
+
 
 
 <div>
@@ -86,9 +97,10 @@
         <span > <br></span>
 </div>
 
-*	As the sole FE engineer at CAUK, I project-managed and reviewed all FE work produced by Changan HQ for two engine upgrade programs
-*	Generated FEA and multibody dynamics simulations. This included data processing and process automation using `Python`
-*	Traveled to Changan Automobile headquarters in Chongqing, China, to provide project planning support and structural simulation technical training
+- Sole FE engineer at CAUK; project‑managed and reviewed FE work from Changan HQ for two engine upgrade programmes.
+- Ran FEA and multibody dynamics simulations; automated workflows and data processing in Python.
+- Travelled to Chongqing, China, to deliver project planning support and structural simulation training.
+
 
 <div>
          <span > <br></span>
@@ -99,9 +111,9 @@
 </div>
 
 
-*	Successfully completed a engine system dynamic assessment for an internal customer using innovative numerical methods that combined `Nastran` and `MATLAB`
-*	Conducted NVH, thermal mechanical, and durability analysis on engine systems. Processed time-series data into the frequency domain using `NumPy`
-*	Presented technical reports and working instructions to design departments and other customers including other Caterpillar R&D locations worldwide
+- Completed an engine system dynamic assessment using combined Nastran and MATLAB methods.
+- Performed NVH, thermo‑mechanical, and durability analyses on engine systems; transformed time‑series data to the frequency domain with NumPy.
+- Authored technical reports and work instructions for design departments and global R&D sites.
 
 <div>
          <span > <br></span>
@@ -111,9 +123,9 @@
         <span > <br></span>
 </div>
 
-*	Responsible for the dynamic analysis and optimization of powertrain components, sub-systems, and full powertrain systems.
-*	Developed `MATLAB` based data visualisation tools for efficient and repeatable simulation processes
-*	Led the NVH Program Attribute Team on an upgrade engine program, liasing with suppliers to review NVH data and trade-offs with other powertrain attributes
+- Performed dynamic analysis and optimisation of powertrain components, subsystems, and full powertrain systems.
+- Built MATLAB‑based data visualisation tools for efficient, repeatable simulation processes.
+- Led the NVH Programme Attribute Team on an engine upgrade, liaising with suppliers and balancing NVH with other attributes.
 
 
 
@@ -147,7 +159,8 @@
 ## Interests
 ---
 
-* I enjoy playing Chess. I am the captain of the Peterborough Chess Club "A" team. I am also the web-site developer for the [club](https://peterboroughchessclub.github.io/site/) 
-* Hiking with the dogs, often exploring abandoned Victorian buildings, tunnels, and bridges. It’s a great way to discover the hidden history of Cambridgeshire and beyond
+- Chess: Captain and website developer for the [Peterborough Chess Club “A” team](https://peterboroughchessclub.github.io/site/).
+- Hiking with the dogs
+
 
 
