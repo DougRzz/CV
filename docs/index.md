@@ -19,7 +19,7 @@
 - Built web applications and analytical pipelines; communicated technical insights to stakeholders.
 - Proficient in Python and SQL; strong data processing with Pandas, Polars, Vaex, NumPy, and Snowflake.
 - Machine learning model development and deployment with TensorFlow, Scikit-learn, and SciPy.
-- Specialist in big time‑series analysis and interactive visualisation applciations.
+- Specialist in big time‑series analysis and interactive visualisation web applications.
 - Collaborative team member with experience mentoring, documenting, and standardising workflows.
 
 ## Skills
@@ -157,6 +157,7 @@
 
 - Chess: Captain and website developer for the [Peterborough Chess Club “A” team](https://peterboroughchessclub.github.io/site/).
 - Hiking with the dogs
+
 
 
 
