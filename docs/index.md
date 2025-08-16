@@ -15,7 +15,7 @@
 ## Profile
 
 ---
-- Data scientist in engineering R&D, delivering analytics, modelling, and decision support.
+- Engineering Data Scientist at Caterpillar Inc, delivering software, analytics and modelling.
 - Built web applications and analytical pipelines; communicated technical insights to stakeholders.
 - Proficient in Python and SQL; strong data processing with Pandas, Polars, Vaex, NumPy, and Snowflake.
 - Machine learning model development and deployment with TensorFlow, Scikit-learn, and SciPy.
@@ -78,7 +78,7 @@
 
 <div>
          <span > <br></span>
-       <span style="font-weight:bold; float:left;">Jaguar Landrover Ltd.	</span>
+       <span style="font-weight:bold; float:left;">Jaguar Land Rover Ltd.	</span>
         <span > &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Structural CAE Engineer</span>
         <span style="float:right;">June 2013 – May 2014</span>
         <span > <br></span>
@@ -157,6 +157,7 @@
 
 - Chess: Captain and website developer for the [Peterborough Chess Club “A” team](https://peterboroughchessclub.github.io/site/).
 - Hiking with the dogs
+
 
 
 
