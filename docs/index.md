@@ -65,7 +65,6 @@
 
 
 
-
 <div>
         <span > <br></span>
         <span style="font-weight:bold; float:left;">Red Bull Technology	</span>
@@ -113,7 +112,6 @@
 
 - Completed an engine system dynamic assessment using combined Nastran and MATLAB methods.
 - Performed NVH, thermo‑mechanical, and durability analyses on engine systems; transformed time‑series data to the frequency domain with NumPy.
-- Authored technical reports and work instructions for design departments and global R&D sites.
 
 <div>
          <span > <br></span>
@@ -125,7 +123,6 @@
 
 - Performed dynamic analysis and optimisation of powertrain components, subsystems, and full powertrain systems.
 - Built MATLAB‑based data visualisation tools for efficient, repeatable simulation processes.
-- Led the NVH Programme Attribute Team on an engine upgrade, liaising with suppliers and balancing NVH with other attributes.
 
 
 
@@ -161,6 +158,7 @@
 
 - Chess: Captain and website developer for the [Peterborough Chess Club “A” team](https://peterboroughchessclub.github.io/site/).
 - Hiking with the dogs
+
 
 
 
