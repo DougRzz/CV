@@ -16,10 +16,10 @@
 
 ---
 - Data scientist in engineering R&D, delivering analytics, modelling, and decision support.
-- Built analytical pipelines and visualisations; communicated technical insights to stakeholders.
+- Built web applications and analytical pipelines; communicated technical insights to stakeholders.
 - Proficient in Python and SQL; strong data processing with Pandas, Polars, Vaex, NumPy, and Snowflake.
-- Machine learning model development and deployment with TensorFlow, scikit-learn, and SciPy.
-- Specialist in large-scale time‑series analysis and interactive visualisation.
+- Machine learning model development and deployment with TensorFlow, Scikit-learn, and SciPy.
+- Specialist in big time‑series analysis and interactive visualisation applciations.
 - Collaborative team member with experience mentoring, documenting, and standardising workflows.
 
 ## Skills
@@ -41,12 +41,12 @@
         <span > <br></span>
 </div>
 
-- Delivered virtual sensors and digital twin models, including empirical ML regressors trained on test‑bed datasets; built production pipelines in Python and Snowflake; delivered visualisations in Tableau and Python apps.
-- Investigated critical engineering issues using large‑scale time‑series analysis; communicated findings with Plotly and Matplotlib.
+- Delivered virtual sensors and digital twin models, including empirical ML regressors trained on test‑bed datasets; built production pipelines in Python and Snowflake; delivered visualisations in Tableau and Python web-apps.
+- Investigated critical engineering issues using large time‑series analysis; communicated findings with Plotly and Matplotlib.
 - Built Python web apps for interactive exploration and tagging of very large datasets using Vaex and DuckDB; deployed with Jupyter Widgets/Voila and Dash.
 - Authored an enterprise white paper on next‑generation time‑series visualisation: gathered requirements from engineers and technical leaders, benchmarked calculation engines, and defined recommendations.
-- Wrote MkDocs documentation and delivered formal training for internal Python packages; contributed to Python/SQL coding and documentation standards.
-- Coached students and graduates, enabling successful project delivery.
+- Wrote documentation using MkDocs and delivered formal training for internal Python packages; contributed to Python/SQL coding and documentation standards.
+- Coached students and graduates.
 - Supervised a sponsored PhD in Bayesian probabilistic modelling, translating research into engineering tools.
 - Supported graduate recruitment through candidate selection and interviewing.
 
@@ -60,7 +60,7 @@
         <span > <br></span>
 </div>
 
-- Built structural analysis models and produced/presented technical reports to customers across Europe.
+- Built structural analysis models and produced/presented technical reports to customers.
 - Automated report generation and data processing in Python and Matplotlib.
 
 
@@ -157,6 +157,7 @@
 
 - Chess: Captain and website developer for the [Peterborough Chess Club “A” team](https://peterboroughchessclub.github.io/site/).
 - Hiking with the dogs
+
 
 
 
