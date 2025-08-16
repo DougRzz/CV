@@ -56,7 +56,7 @@
         <span > <br></span>
         <span style="font-weight:bold; float:left;">Advanced Analysis Ltd.</span>
         <span > &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Engineering consultant </span>
-        <span style="float:right;">October 2014 - Apr 2016</span>
+        <span style="float:right;">Oct 2014 - Apr 2016</span>
         <span > <br></span>
 </div>
 
@@ -157,6 +157,7 @@
 
 - Chess: Captain and website developer for the [Peterborough Chess Club “A” team](https://peterboroughchessclub.github.io/site/).
 - Hiking with the dogs
+
 
 
 
