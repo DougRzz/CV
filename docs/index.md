@@ -97,8 +97,6 @@
 
 - Sole FE engineer at CAUK; project‑managed and reviewed FE work from Changan HQ for two engine upgrade programmes.
 - Ran FEA and multibody dynamics simulations; automated workflows and data processing in Python.
-- Travelled to Chongqing, China, to deliver project planning support and structural simulation training.
-
 
 <div>
          <span > <br></span>
@@ -157,6 +155,7 @@
 
 - Chess: Captain and website developer for the [Peterborough Chess Club “A” team](https://peterboroughchessclub.github.io/site/).
 - Hiking with the dogs
+
 
 
 
